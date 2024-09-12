@@ -1,0 +1,88 @@
+.corpo{
+    background: linear-gradient(to right, rgb(126, 32, 32), rgb(71, 3, 3));
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+.container{
+    width: 600px;
+    height: 750px;
+    border-radius: 10px;
+    margin-top: 30px;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+label{
+    display:block ;
+    margin-top: 10px
+}
+input{
+    width: 80%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #474747;
+    color: white;
+}
+button{
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: linear-gradient(to right, rgb(126, 32, 32), rgb(71, 3, 3));
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+
+}
+button:hover {
+    background: linear-gradient(to right, rgb(126, 32, 32), rgb(71, 3, 3));
+}
+.paicalcule{
+    text-align: center;
+}
+.calcule{
+    margin-top: 20px;
+}
+.informeseupeso{
+    margin-top: 100px;
+}
+.central{
+    background-color: rgb(39, 37, 37);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    width: 600px;
+    height: 750px;
+    border-radius: 10px;
+    margin-top: 60px;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.tabela{
+    width: 400px;
+    display:block ;
+    align-items: baseline;
+    justify-content: baseline;
+  
+}
+.acucarado{
+    color: #FF0000;
+}
